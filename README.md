@@ -37,3 +37,9 @@ https://huggingface.co/spaces/RedBottle13/Sky-Segmentation
 - Source: [New York City Midtown with Empire State Building at Sunset Stock Photo](https://www.istockphoto.com/photo/new-york-city-midtown-with-empire-state-building-at-sunset-gm521714583-50356054)
 
 ## Sample Results
+<img src="result images/blue1.png">
+<img src="result images/blue2.png">
+<img src="result images/pink1.png">
+<img src="result images/pink2.png">
+<img src="result images/pale1.png">
+<img src="result images/pale2.png">
